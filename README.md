@@ -1,6 +1,6 @@
 # media-reactnative
 
-[![NPM]https://img.shields.io/npm/l/react https://github.com/LombaAnderson/ media-reactnative/blob/main/LICENSE
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/media-reactinative/blob/main/LI
 
 
 # Sobre o projeto
