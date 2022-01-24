@@ -10,6 +10,7 @@ Projeto no qual foi pedido uma aplicação mobile onde se desenvolveu o calculo 
 ## Recursos utilizados
 - Expo CLI
 - React Native
+- Javascript
 - Vmos virtual root
 
 
